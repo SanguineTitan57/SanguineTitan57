@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Izzy and I'm a Solidity Web3 Developer, Medical Student, Graphics Designer, 3D artist, Amateur DevOps Engineer, Fullstack Developer and a nerd disgustingly into tech, aerospace enginnering and medicine from Mars. I try to do everything and anything. I hope you do too (╯▔皿▔)╯ </h2>
+<h5 align="left">Hi 👋! My name is Izzy and I'm a Solidity Web3 Developer, Medical Student, Graphics Designer, 3D artist, Amateur DevOps Engineer, Fullstack Developer and a nerd disgustingly into tech, aerospace enginnering and medicine from Mars. I try to do everything and anything. I hope you do too (╯▔皿▔)╯ </h5>
 
 ###
 
@@ -80,6 +80,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/SanguineTitan57/SanguineTitan57/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SanguineTitan57/SanguineTitan57/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SanguineTitan57/SanguineTitan57/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SanguineTitan57/SanguineTitan57/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
