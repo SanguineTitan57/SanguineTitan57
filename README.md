@@ -1,4 +1,4 @@
-<h5 align="left">Hi 👋! My name is Izzy and I'm a Solidity Web3 Developer, Medical Student, Graphics Designer, 3D artist, Amateur DevOps Engineer, Fullstack Developer and a nerd disgustingly into tech, aerospace enginnering and medicine from Mars. I try to do everything and anything. I hope you do too (╯▔皿▔)╯ </h5>
+<h5 align="left">Hi 👋! My name is Izzy and I'm a Solidity Web3 Developer, Medical Student, Graphics Designer, 3D artist, Amateur DevOps Engineer, Fullstack Developer and a nerd with an abnormal interest in tech, aerospace enginnering and medicine from Mars. I try to do everything and anything. I hope you do too (╯▔皿▔)╯ </h5>
 
 ###
 
